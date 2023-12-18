@@ -34,21 +34,21 @@ This C++ program demonstrates the implementation of Kruskal's algorithm for find
 
 *Suppose you have the following input:*
 
-Introdu numarul de noduri: 4 
-Introdu numarul de muchii: 5 
-Introdu muchia 1 (x, y, cost): 1 2 2 
-Introdu muchia 2 (x, y, cost): 1 3 3 
-Introdu muchia 3 (x, y, cost): 2 3 1 
-Introdu muchia 4 (x, y, cost): 2 4 4 
-Introdu muchia 5 (x, y, cost): 3 4 5 
+Introdu numarul de noduri: 4 <br>
+Introdu numarul de muchii: 5 <br>
+Introdu muchia 1 (x, y, cost): 1 2 2 <br>
+Introdu muchia 2 (x, y, cost): 1 3 3 <br>
+Introdu muchia 3 (x, y, cost): 2 3 1 <br>
+Introdu muchia 4 (x, y, cost): 2 4 4 <br>
+Introdu muchia 5 (x, y, cost): 3 4 5 <br>
 
 *The program might output:*
 
 1, 2 cu costul 2 <br> 
-2, 3 cu costul 1 
-1, 3 cu costul 3 
-2, 4 cu costul 4 
-Costul total al Arborelui este: 10 
+2, 3 cu costul 1 <br>
+1, 3 cu costul 3 <br>
+2, 4 cu costul 4 <br>
+Costul total al Arborelui este: 10 <br>
 
 
 ## License
