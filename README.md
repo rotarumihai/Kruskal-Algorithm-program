@@ -44,7 +44,7 @@ Introdu muchia 5 (x, y, cost): 3 4 5
 
 *The program might output:*
 
-1, 2 cu costul 2. 
+1, 2 cu costul 2 <br> 
 2, 3 cu costul 1 
 1, 3 cu costul 3 
 2, 4 cu costul 4 
